@@ -21,7 +21,7 @@ The system then uses **sentence embeddings** and **similarity scoring** to match
 
 ## ⚙️ Technologies & Libraries Used
 1. **Frontend/UI** : Tkinter (Python GUI), ScrolledText, MessageBox
-2. 2. **Data Handling** : pandas 
+2. **Data Handling** : pandas 
 3. **NLP Processing** : spaCy, SentenceTransformers 
 4. **Similarity Matching** : cosine similarity (`sentence-transformers.util`), fuzzy matching (`rapidfuzz`) 
 5. **Speech Input** : SpeechRecognition (`speech_recognition` library) 
@@ -70,7 +70,7 @@ The system then uses **sentence embeddings** and **similarity scoring** to match
 ---
 
 ## Future Improvements
-- Add **multi-disease probability scores**  
+- Train on audio based symptoms for **enhanced voice input support**
 - Integrate a **medical advice or prevention tips** section  
 - Deploy as a **web app (Streamlit/Flask)** for wider accessibility  
 - Include **real medical dataset integration**
@@ -78,8 +78,7 @@ The system then uses **sentence embeddings** and **similarity scoring** to match
 ---
 
 ## Author
-**Arukshita Dubey**  
-B.Tech (CSE) | JK Lakshmipat University  
+**Arukshita Dubey**   
 📧 [https://www.linkedin.com/in/arukshita-dubey-811b22249/]
 
 ---
