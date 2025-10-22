@@ -86,4 +86,4 @@ B.Tech (CSE) | JK Lakshmipat University
 
 ## 🧾 Citation
 If using the idea or data, please cite:
-> Arukshita (2025). *Disease Prediction from Symptom Descriptions* — A Natural Language Processing-based Smart Diagnosis System.
+> Arukshita Dubey (2025). *Disease Prediction from Symptom Descriptions* — A Natural Language Processing-based Smart Diagnosis System.
